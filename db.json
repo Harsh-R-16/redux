@@ -1,0 +1,155 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "cities": [
+    {
+      "country": "India",
+      "city": "New Delhi",
+      "id": "965ea658-cbfe-4355-a912-a98212631f28"
+    },
+    {
+      "country": "Indonesia",
+      "city": "Jakarta",
+      "id": "a85f9d0c-bddb-44dc-a439-cde8d980b0cd"
+    },
+    {
+      "country": "Iran",
+      "city": "Tehran",
+      "id": "eedb31c1-25bc-44ec-83f5-135bf65a371e"
+    },
+    {
+      "country": "Iraq",
+      "city": "Baghdad",
+      "id": "e42f6812-8f05-41b9-953a-eb7438c67fbe"
+    },
+    {
+      "country": "Israel",
+      "city": "Jerusalem",
+      "id": "0473145a-073d-48df-aa4c-8e3140a1cbcc"
+    },
+    {
+      "country": "Italy",
+      "city": "Roma",
+      "id": "a5faa391-7b3a-48e2-be9b-9327620693d2"
+    },
+    {
+      "country": "Ivory Coast",
+      "city": "Yamoussoukro",
+      "id": "2d8f8c2b-af6d-4319-864d-6898a0914450"
+    },
+    {
+      "country": "Jamaica",
+      "city": "Kingston",
+      "id": "1322a574-03bb-4d30-85f4-ea44ce6916be"
+    },
+    {
+      "country": "Japan",
+      "city": "Tokyo",
+      "id": "68647a4c-fcba-4dba-9025-d4cd88ab9d40"
+    },
+    {
+      "country": "Jordan",
+      "city": "Amman",
+      "id": "0a456e9e-e0ba-4931-81b3-435287c765cd"
+    },
+    {
+      "country": "Kazakhstan",
+      "city": "Astana",
+      "id": "5a8a5053-e9d8-4cce-8177-5532307d4e5f"
+    },
+    {
+      "country": "Kenya",
+      "city": "Nairobi",
+      "id": "aa1f8db2-e701-4e69-8049-0065eec8c56f"
+    },
+    {
+      "country": "Lesotho",
+      "city": "Maseru",
+      "id": "473c21c7-ae9a-4e8e-b8f5-ccd451971599"
+    },
+    {
+      "country": "Liberia",
+      "city": "Monrovia",
+      "id": "8c05a9c0-6bf4-4e6f-9f17-0f723bbd522e"
+    },
+    {
+      "country": "Libyan Arab Jamahiriya",
+      "city": "Tripoli",
+      "id": "6ee364db-855b-4fc0-ad5e-b0fc2517b538"
+    },
+    {
+      "country": "Liechtenstein",
+      "city": "Vaduz",
+      "id": "6f586939-ff27-404b-ac8d-139b4562b09d"
+    },
+    {
+      "country": "Luxembourg",
+      "city": "Luxembourg [Luxemburg/L",
+      "id": "d87d9e67-c314-4235-a932-70282599b8e7"
+    },
+    {
+      "country": "Macao",
+      "city": "Macao",
+      "id": "84c05ce4-19be-4e87-aedf-3a471c74946a"
+    },
+    {
+      "country": "North Macedonia",
+      "city": "Skopje",
+      "id": "3c8d8980-b701-40bf-8200-033406815877"
+    },
+    {
+      "country": "Madagascar",
+      "city": "Antananarivo",
+      "id": "563e7d2d-f466-4098-bca8-0c11cd4dddaa"
+    },
+    {
+      "country": "Kyrgyzstan",
+      "city": "Bishkek",
+      "id": "70cbaa5c-bb9c-48c3-91cd-b49088d704ea"
+    },
+    {
+      "country": "Laos",
+      "city": "Vientiane",
+      "id": "b39f73b7-349b-4124-a36f-454ee16034c2"
+    },
+    {
+      "country": "Latvia",
+      "city": "Riga",
+      "id": "2a121744-72c9-4c39-982d-02650ce2fd1b"
+    },
+    {
+      "country": "Lebanon",
+      "city": "Beirut",
+      "id": "df58728c-1680-415e-a347-b33bc7fd5db7"
+    },
+    {
+      "country": "Kuwait",
+      "city": "Kuwait",
+      "id": "114a689d-2c02-4e9a-9ad3-53f0ab461714"
+    },
+    {
+      "country": "Kiribati",
+      "city": "Bairiki",
+      "id": "47975e4c-0116-4c5d-a1eb-ace6198b4b8a"
+    },
+    {
+      "country": "India",
+      "id": "eeepGD3"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

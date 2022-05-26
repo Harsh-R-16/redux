@@ -1,0 +1,36 @@
+What is Redux?
+
+redux is state management system for cross component or app-wide state.
+complex state management system and prop driling also we can stop.
+
+local state (useState/useReducer)
+cross component state 
+app wide state
+
+redux and context api used to solve problem od cross component state management
+
+react context vs redux
+props chain and prop driling we can reduce with this.
+
+state management became complex with context api.
+
+performance is slow in context so for low frequency changes we can use context api
+
+redux is flux architecture
+
+how redux works?
+
+redux is all about having one central data store.
+
+we use reducer function to change data in store.
+
+components dispatch actions
+
+what is flux and what is MVC.
+
+what is pure function
+
+pure function return same output for same set of inputs always.
+
+react.memo() it is different from useMemo()
+
